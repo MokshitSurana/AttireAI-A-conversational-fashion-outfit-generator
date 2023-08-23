@@ -10,10 +10,10 @@
 2. Styling: Users can use Attire AI to get styling tips and inspiration. Attire AI can help users learn how to combine different clothing items and styles to create unique stylish and cohesive outfits easily.
 3. Performance: Attire AI can be used to personalize the shopping experience for each user. It can take into account the user's past purchase history and social media trends to suggest outfits that are tailored to  their individual preferences.
 
-![Website Flow]("./website_flow.png" "Website Flow")
+![Website Flow](website_flow.png "Website Flow")
 
-![Birds eye view]("./bev.png" "Birds eye view")
+![Birds eye view](bev.png "Birds eye view")
 
-![Generate Clothing]("./generate_clothing.png" "Generate Clothing")
+![Generate Clothing](generate_clothing.png "Generate Clothing")
 
-![Speak to LLM]("./speak_to_llm.png" "Speak to LLM")
+![Speak to LLM](speak_to_llm.png "Speak to LLM")
