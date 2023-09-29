@@ -1,3 +1,6 @@
+# Youtube Demo 
+https://youtu.be/cZlyOJwVQjs?si=F9znlqFTnMEqtuGf
+
 # Deliverables
 
 - A functional and user-friendly fashion outfit generator that leverages Generative AI technology to provide personalized and on-trend outfit recommendations to users.
