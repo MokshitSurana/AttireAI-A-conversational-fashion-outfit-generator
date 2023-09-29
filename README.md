@@ -1,8 +1,5 @@
 # Demo 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/cZlyOJwVQjs?si=3JGCWKr75N9N2r4h" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+https://youtu.be/cZlyOJwVQjs?si=T5J96mQR4hA3fh8y
 
 # Deliverables
 
